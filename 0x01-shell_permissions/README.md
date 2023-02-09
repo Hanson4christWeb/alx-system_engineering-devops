@@ -5,3 +5,7 @@ shell permissions
 Write a script that prints the effective username of the current user using command whoami
 
 Write a script that prints all the groups the current user is part of using command groups
+
+a script that changes owner if file using command chown
+
+a script that creates an empty file  using command touch
