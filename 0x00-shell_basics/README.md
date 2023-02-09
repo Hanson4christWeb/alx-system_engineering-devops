@@ -23,3 +23,8 @@ a script that changes the working directory to the previous one using cd -
 a script that list all files with these attributes using command ls -al . .. 
 
 a script that gives a file type in a directory using command file
+
+script that copy all html files and some attributes using command cp
+
+
+script that copy all html files and some attributes using command cp
