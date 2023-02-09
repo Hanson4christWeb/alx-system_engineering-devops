@@ -19,3 +19,7 @@ deleting a file in a directory using rm
 Delete the directory using rm
 
 a script that changes the working directory to the previous one using cd -
+
+a script that list all files with these attributes using command ls -al . .. 
+
+a script that gives a file type in a directory using command file
