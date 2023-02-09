@@ -15,3 +15,7 @@ Create a script that create a directory inside another directory using mkdir
 move a file from one directory to another using command mv
 
 deleting a file in a directory using rm
+
+Delete the directory using rm
+
+a script that changes the working directory to the previous one using cd -
