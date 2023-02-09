@@ -7,3 +7,5 @@ a script that changes the working directory to the user’s home directory using
 Display current directory contents in a long format using the command ls -l
 
 Display current directory contents, including hidden files (starting with .). Use the long format using the command ls -al
+
+Display current directory contents using the command ls -lan
