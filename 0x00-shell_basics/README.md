@@ -11,3 +11,7 @@ Display current directory contents, including hidden files (starting with .). Us
 Display current directory contents using the command ls -lan
 
 Create a script that create a directory inside another directory using mkdir
+
+move a file from one directory to another using command mv
+
+deleting a file in a directory using rm
