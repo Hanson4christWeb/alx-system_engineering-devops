@@ -21,3 +21,9 @@ a script that creates an empty file  using command touch
 9 John Doe using command chmod 753
 
 10 mirror permissions using command chmod reference
+
+11 directories permissions using command
+
+12 directory permissions using command
+
+13-change group using command chgrp
