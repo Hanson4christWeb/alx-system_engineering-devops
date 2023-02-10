@@ -17,3 +17,7 @@ a script that creates an empty file  using command touch
 7 everybody using command chmod ugo
 
 8 James Bond using command chmod 007
+
+9 John Doe using command chmod 753
+
+10 mirror permissions using command chmod reference
