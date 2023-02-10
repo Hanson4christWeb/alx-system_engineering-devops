@@ -27,3 +27,7 @@ a script that creates an empty file  using command touch
 12 directory permissions using command
 
 13-change group using command chgrp
+
+14 owner and group using command chown
+
+15 symbolic links using command chown h
