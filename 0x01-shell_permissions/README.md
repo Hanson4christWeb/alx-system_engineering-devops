@@ -9,3 +9,7 @@ Write a script that prints all the groups the current user is part of using comm
 a script that changes owner if file using command chown
 
 a script that creates an empty file  using command touch
+
+5 execute using command chmod
+
+6 multiple permissions using command chmod ug
