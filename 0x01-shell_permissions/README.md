@@ -13,3 +13,7 @@ a script that creates an empty file  using command touch
 5 execute using command chmod
 
 6 multiple permissions using command chmod ug
+
+7 everybody using command chmod ugo
+
+8 James Bond using command chmod 007
