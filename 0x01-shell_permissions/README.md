@@ -30,4 +30,6 @@ a script that creates an empty file  using command touch
 
 14 owner and group using command chown
 
-15 symbolic links using command chown h
+15 symbolic links using command cho
+
+17 Star Wars using command telnet towel
