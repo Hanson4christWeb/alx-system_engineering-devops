@@ -1,2 +1,9 @@
 shell redirections
-A script that prints Hello world using echo
+
+0 hello world using echo
+
+1 confused smiley using echo
+
+2 hellofile using cat
+
+3 twofiles using cat
