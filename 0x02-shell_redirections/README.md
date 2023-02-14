@@ -15,3 +15,7 @@ shell redirections
 6-third line using head
 
 7 file using echo
+
+8 cwd state using ls la
+
+9-duplicate last line using tail lines
