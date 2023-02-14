@@ -11,3 +11,7 @@ shell redirections
 4 lastlines using tail
 
 5 firstlines using head
+
+6-third line using head
+
+7 file using echo
