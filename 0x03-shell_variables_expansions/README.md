@@ -27,3 +27,11 @@ shell variables expansions
 12 combinations
 
 13 print float
+
+14 100 decimal to hexadecimal
+
+15 101 rot13
+
+16 102 odd
+
+17 103-water and stir
